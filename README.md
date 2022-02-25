@@ -1,3 +1,3 @@
 # JenkinsTest
 
-This is a test git reposit
+This is a test git repository
